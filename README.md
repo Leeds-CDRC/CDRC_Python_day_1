@@ -5,8 +5,11 @@ Binder link: https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Python_day_1/HEAD
 ## Materials for day 1 of the CDRC Beginner’s Python for Data Analysis course
 
 ALL MATERIALS CREATED BY Fran Pontin 
+
 email:F.L.Pontin@leeds.ac.uk,
+
 website: http://francescapontin.github.io, 
+
 twitter:[@FrancescaPontin](https://twitter.com/FrancescaPontin)
 
 
