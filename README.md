@@ -17,7 +17,7 @@ Twitter:[@FrancescaPontin](https://twitter.com/FrancescaPontin)
 
 09.20: registration opens online (you will be admitted to a virtual 'lobby' initially until Fran and the team admit you to the training)
 
-## 09:30-10.45: What is Python, the basics? Exercise 1: Getting started (1.5 hours) 
+## 09:30-10.45: What is Python, the basics? Exercise 1: Getting started (1.25 hours) 
 
 - What is programming  
 - About Python as a coding language 
