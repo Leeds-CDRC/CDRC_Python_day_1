@@ -12,12 +12,11 @@ dependencies:
   - cartopy
   - descartes
   - ipywidgets
-  - pyproj
-  - jupyterlab>=1.0
-  - jupyter==1.0.0
   - contextily
   - pip:
       - plotly
       - statsmodels
       - scikit-learn
-     
+      
+
+
