@@ -2,21 +2,22 @@ name: cdrc_env
 
 channels:
   - conda-forge
-
+  - defaults
 dependencies:
   - python==3.8
   - seaborn
+  - matplotlib==3.*
   - geopandas
   - mapclassify
-  - matplotlib
-  - seaborn
   - cartopy
   - descartes
   - ipywidgets
   - pyproj
   - jupyterlab>=1.0
   - jupyter==1.0.0
-  - statsmodels
-prefix: /opt/anaconda3/envs/cdrc_env
-
-
+  - contextily
+  - pip:
+      - plotly
+      - statsmodels
+      - scikit-learn
+     
